@@ -51,7 +51,7 @@ Proje kapsamında kullanılan başlıca tablolar:
 
 | Giriş Sayfası                              | Eğitmen Sayfası                            | Yönetici Sayfası                      |
 | -------------------------------------- | ---------------------------------------- | -------------------------------------- |
-| ![giris](/login_page.png)    | ![egitmen](/egitmen_page.png)    | ![yonetici](/admin_page.png)|
+| ![giris](/login_page.jpeg)    | ![egitmen](/egitmen_page.jpeg)    | ![yonetici](/admin_page.jpeg)|
 
 ## 📁 Proje Dosyaları
 
@@ -69,9 +69,10 @@ Proje kapsamında kullanılan başlıca tablolar:
 
 | İsim | GitHub |
 |------|--------|
+| Oğuzhan Erbil | [oguzhanerbil](https://github.com/oguzhanerbil) |
 | Emirhan Oktay | [Punisher](https://github.com/Punisher) |
 | Efekan Demir | [EfekanDemir](https://github.com/EfekanDemir) |
-| Oğuzhan Erbil | [oguzhanerbil](https://github.com/oguzhanerbil) |
+
 
 ---
 
