@@ -51,7 +51,7 @@ Proje kapsamında kullanılan başlıca tablolar:
 
 | Giriş Sayfası                              | Eğitmen Sayfası                            | Yönetici Sayfası                      |
 | -------------------------------------- | ---------------------------------------- | -------------------------------------- |
-| ![giris](screenshots/login_page.png)    | ![egitmen](screenshots/trainor_page.png)    | ![yonetici](screenshots/admin_page.png)|
+| ![giris](/login_page.png)    | ![egitmen](/egitmen_page.png)    | ![yonetici](/admin_page.png)|
 
 ## 📁 Proje Dosyaları
 
