@@ -45,7 +45,7 @@ Proje kapsamında kullanılan başlıca tablolar:
 
 3. Emulator veya fiziksel bir cihazda uygulamayı çalıştırın:
 
-   * `Run > Run 'app'` veya Shift+F10
+   * `Run > Run 'app'`, Shift+F10 veya terminale `flutter run` yazarak çalıştırın.
 
 ## 🗈️ Arayüzden Görüntüler
 
