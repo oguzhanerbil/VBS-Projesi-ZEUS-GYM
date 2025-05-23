@@ -70,7 +70,7 @@ Proje kapsamında kullanılan başlıca tablolar:
 | İsim | GitHub |
 |------|--------|
 | Oğuzhan Erbil | [oguzhanerbil](https://github.com/oguzhanerbil) |
-| Emirhan Oktay | [Punisher](https://github.com/Punisher) |
+| Emirhan Oktay | [Punisher](https://github.com/punisher7140) |
 | Efekan Demir | [EfekanDemir](https://github.com/EfekanDemir) |
 
 
